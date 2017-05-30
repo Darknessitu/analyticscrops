@@ -1,5 +1,6 @@
 # Analytic Crop App #
 Version: 0.0.1
+Database in [Firebase](https://console.firebase.google.com/u/0/project/projectgrade-6b702/database/data?hl=es-419)
 
 ### How do I get set up? ###
 
